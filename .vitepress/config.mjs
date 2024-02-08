@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/Docs-For-TUW/',
+  //base: '/Docs-For-TUW/',
   head: [["link", { rel: "icon", href: "/logo.svg" }]],
   title: "《亡灵战争》文档库",
   description: "A VitePress Site",
