@@ -8,8 +8,8 @@ import { useRoute } from 'vitepress';
 import { useLive2d } from 'vitepress-theme-website'
 
 export default {
-  extends: DefaultTheme,
-
+  ...DefaultTheme,
+  enhanceApp(ctx) {},
   setup() {
 
         //看板娘
