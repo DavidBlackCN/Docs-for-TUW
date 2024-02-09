@@ -7,7 +7,7 @@ hero:
   text: "亡灵战争"
   tagline: 📑这是一个文档库
   image:
-    src: "https://cdn.jsdelivr.net/gh/DavidBlackCN/Docs-For-TUW@master/image/ic_kulou_black_24px.svg"
+    src: "image/ic_kulou_black_24px.svg"
     alt: "这里应该是一个抽象的图标"
   actions:
     - theme: brand
