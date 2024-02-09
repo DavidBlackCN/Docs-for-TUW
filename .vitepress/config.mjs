@@ -5,7 +5,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   
   lastUpdated: true,
-  //base: '/Docs-For-TUW/',
+  base: '/Docs-For-TUW/',
   head: [["link", { rel: "icon", href: "https://cdn.jsdelivr.net/gh/DavidBlackCN/Docs-For-TUW@master/logo.svg" }]],
   title: "《亡灵战争》文档库",
   description: "📑这是一个文档库",
