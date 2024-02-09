@@ -5,16 +5,22 @@
 ---
 
 ### 备份库①
-
-[【腾讯微云】](https://share.weiyun.com/32bE9lbS)
+::: details 腾讯微云
+[->点我跳转<-](https://share.weiyun.com/32bE9lbS)
 
 密码：220202
+:::
+
+---
 
 ### 备份库②
-
-[【百度网盘】](https://pan.baidu.com/s/1iRtA4dKu1mps3Qc86gfA9A)
+::: details 腾讯微云
+[->点我跳转<-](https://pan.baidu.com/s/1iRtA4dKu1mps3Qc86gfA9A)
 
 密码：0522
+::: 
+
+---
 
 ## 重要说明
 

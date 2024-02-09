@@ -4,7 +4,9 @@ Q：我的游戏崩溃了？
 
 A：以下列举几种常见崩溃的处理方法。
 
-> 小贴士：在错误报告中使用Ctrl+F搜索相关字符更快锁定问题~
+::: tip 小贴士：
+在错误报告中使用Ctrl+F搜索相关字符更快锁定问题~
+:::
 
 ---
 
@@ -16,7 +18,9 @@ A：以下列举几种常见崩溃的处理方法。
 
 * 启动游戏正常，进存档崩溃：
 
-> java.lang.NullPointerException【空指针】
+::: danger 【空指针】
+java.lang.NullPointerException
+:::
 
   正版则重新登录，离线玩家请删除账号重新配置。
 
@@ -24,7 +28,9 @@ A：以下列举几种常见崩溃的处理方法。
 
 * 进多人游戏时出现连接丢失：
 
-> java.lang.NullPointer Exception:group【多人游戏空指针】
+::: danger 【多人游戏空指针】
+java.lang.NullPointer Exception:group
+:::
 
   同理，方法同上。
 
@@ -32,7 +38,9 @@ A：以下列举几种常见崩溃的处理方法。
 
 * buff冲突导致崩溃：
 
-> java.lang.ClassCastException【实体异常】
+::: danger 【实体异常】
+java.lang.ClassCastException
+:::
 
   ![1707372755656](image/faq/1707372755656.png)
 
@@ -46,7 +54,9 @@ A：以下列举几种常见崩溃的处理方法。
 
 * 安全问题导致崩溃：
 
-> java.lang.SecurityException【检测资源文件完整性】
+::: danger 【检测资源文件完整性】
+java.lang.SecurityException
+:::
 
   在\.minecraft\versions\1.7.10下用压缩包打开1.7.10.jar，删除META-INF文件夹。
 
@@ -76,7 +86,11 @@ A：如果你无法解决问题：
 * 你可以寻找交流群的万能群友帮忙，如果只是很简单的剧情方面的问题，他们会很乐意为您解答~
 * 如果是上文提到的崩溃等技术性问题，首先你可以尝试阅读这篇[专栏](https://www.bilibili.com/read/cv18242942)。
 * 如果你真的有问题需要请教群友，那么请记住下面几点：
-* **1.态度请端正**
-* **2.提问请过脑子**
+  
+::: tip
+1.态度请端正
+
+2.提问请过脑子
+:::
 
 ![1707377502574](image/crash/1707377502574.png)
