@@ -1,1 +1,1 @@
-ssr: { noExternal: ['waline+client'] }
+ssr: { noExternal: ['waline'] }
