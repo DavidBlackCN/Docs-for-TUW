@@ -1,0 +1,1 @@
+ssr: { noExternal: ['waline'] }
